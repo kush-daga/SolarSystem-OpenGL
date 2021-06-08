@@ -8,9 +8,3 @@
 
 3. Look at console for interaction instructions
 
-
-## Example
-
-##### Solar System with labels on and orbital trails
-
-![SolarSystem](http://i.imgur.com/iY0HtjV.png)
