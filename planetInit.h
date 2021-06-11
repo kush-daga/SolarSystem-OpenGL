@@ -16,9 +16,6 @@ class Planet
 
 void addPlanet(Planet p, int r, int g, int b);
 
-
-
 extern Planet sun, mer, ven, ear, mar, jup, sat, ura, nep, plu;
-
 
 #endif
